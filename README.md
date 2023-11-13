@@ -1,4 +1,4 @@
-Hey 👋! I'm Dani O'Kane👨🏻‍💻
+Hey 👋! I'm Dani O'Kane👨🏻‍💻 
     a Web Developer
 
 🤓 A little more about me...
