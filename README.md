@@ -7,6 +7,5 @@ Hey 👋! I'm Dani O'Kane👨🏻‍💻
 📚 I'm currently learning...
     Python and much more!
 
-🚀 Technologies with i feel comfortable...
-    MERN STACK   
+🚀 MERN STACK   
   
